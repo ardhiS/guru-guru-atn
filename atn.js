@@ -19,7 +19,7 @@ const reviews = [
     id: 3,
     name: "Ibu Dewi",
     job: "Administrasi",
-    img: "./img/b dewi.png",
+    img: "./img/b Dewi.png",
     text: "Saya mengurus semua administrasi sekolah, ini foto saya adalah keluarga besar :)",
   },
   {
